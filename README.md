@@ -1,0 +1,2 @@
+# projetS3
+Le but de l’application est de pouvoir partager avec ces amis ces recettes favorites. Pour cella il faut crée un compte sur le site. N’importe quel utilisateur pourras poster une recette. Les utilisateurs pourront commenter les recettes, les commentaires devront être modérer automatiquement d’après une liste de mots injurieux. Les recettes devront être classe par un niveau de difficulté. Les recettes seront triées par leur région d’origine.
